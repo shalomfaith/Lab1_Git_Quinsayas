@@ -1,2 +1,2 @@
 # Lab 1 Activity 
-This repository belongs to Shalom Faith Quinsayas.
+This repository belongs to Quinsayas.
